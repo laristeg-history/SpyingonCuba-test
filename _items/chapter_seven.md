@@ -12,5 +12,5 @@ tags: [  ]
 ## Heatmap of the Partido Revolucionario Cubano
 
 <div>
-<iframe style="width: 100%; height: 800px; border: none;" class="text-center" title="Heatmap of the Partido Revolucionario Cubano" src="{{ site.baseurl }}/assets/chapter_seven/.html" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe style="width: 100%; height: 800px; border: none;" class="text-center" title="Heatmap of the Partido Revolucionario Cubano" src="{{ site.baseurl }}/assets/heatmaps_viz/PRC_DelegacionENFilesSimilarityMatrix" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
