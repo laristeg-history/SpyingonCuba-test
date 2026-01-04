@@ -9,6 +9,7 @@ categories: [ Large Scale, Past, Current, Future ]
 tags: [  ]
 ---
 
+  
 ## Partido Revolucionario Cubano English Correspondence Heatmap 
 
 <div>
