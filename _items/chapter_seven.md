@@ -8,8 +8,8 @@ chapter_number: 7
 categories: [ Large Scale, Past, Current, Future ]
 tags: [  ]
 ---
-
 <p></p>
+
 ## Partido Revolucionario Cubano English Correspondence Heatmap 
 
 <div>
