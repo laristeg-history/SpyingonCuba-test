@@ -155,4 +155,25 @@
  	max-width: 39.9375rem;
     border-left: 0px;
   }
+
+.photo-scroller {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.photo-track {
+  display: flex;
+  gap: 1rem;
+}
+
+.photo-track img {
+  height: 180px;
+  width: auto;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
 }
